@@ -47,11 +47,8 @@ The methods were evaluated using:
 │   └── README.md
 │
 ├── results/
-│   ├── clustering_metrics/
-│   ├── confusion_matrices/
 │   ├── umap_true_labels/
-│   ├── umap_predicted_clusters/
-│   └── figures/
+│   └── ARI, NMI, silhouette scores
 │
 └── README.md
 ```
